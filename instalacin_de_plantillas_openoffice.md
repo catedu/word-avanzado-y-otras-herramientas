@@ -1,8 +1,10 @@
 # Instalación de plantillas (OpenOffice)
 
-## Curiosidad
-
-Aunque con OpenOffice Writer también se puede trabajar con plantillas, con la instalación predefinida no se instala ninguna, aunque podrás buscarlas a través de la Web.
+>**tip**	
+>
+>## Curiosidad
+>
+>Aunque con OpenOffice Writer también se puede trabajar con plantillas, con la instalación predefinida no se instala ninguna, aunque podrás buscarlas a través de la Web.
 
 Tal y como te hemos dicho al principio de esta lección, con la instalación de OpenOffice no se instala ninguna plantilla, ¡¡pero no te preocupes!! Existen en la Web muchos sitios en los cuales puedes descargarte extensiones de plantillas como, por ejemplo, la página Web de [wiki open-office](http://wiki.open-office.es/Extensiones).
 

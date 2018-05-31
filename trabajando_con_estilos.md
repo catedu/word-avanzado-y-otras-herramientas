@@ -9,9 +9,9 @@ En los siguientes enlaces tienes las explicaciones:
 
 Si después de haber leído lo anterior te sigue quedando alguna duda, a continuación tienes videotutoriales en donde te explican los estilos.
 
-_Vídeo 2.1. Cómo trabajar con estilos en Word 2007. Fuente: Youtube._
+{% youtube %}https://youtu.be/Jc9od3sxULY{% endyoutube %}
 
-_Vídeo 2.2. Cómo trabajar con estilos en Write. Fuente: Youtube._
+{% youtube %}https://youtu.be/Fqvz1-pMvpU{% endyoutube %}
 
 ## Actividad
 

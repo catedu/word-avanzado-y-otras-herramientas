@@ -13,4 +13,4 @@ Para realizar el curso hay que tener conocimientos básicos de los procesadores 
 textos, ya sea Microsoft Word u OpenOffice Writer, ya que algunas de las
 actividades y tareas que te presentaremos requieren conocer estos aspectos.
 
-![](img/doc.svg)
+![](img/1doc.svg)

@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 A continuación te presentamos algunas páginas Web donde puedes ampliar algunos de los contenidos estudiados:
 

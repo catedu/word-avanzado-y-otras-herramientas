@@ -5,10 +5,10 @@ Una sangría es un desplazamiento bien de todo texto de un párrafo hacia la der
 Observa las siguientes figuras en donde claramente podrás comprender y visualizar cada tipo de sangría.
 
 
-![](img/Imagen_04.jpg)
+![2.4. Diferentes tipos de sangría. Captura propia.](img/2Imagen_04.jpg)
 
 
-_Fig. 2.4. Diferentes tipos de sangría. Captura propia._
+
 
 Para conocer todo lo que puedes hacer con las sangrías en cada programa, puedes acceder a los siguientes enlaces:
 

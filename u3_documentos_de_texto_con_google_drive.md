@@ -2,9 +2,9 @@
 
 Ya te hemos indicado anteriormente que una de las aplicaciones disponibles dentro de Google Drive es un procesador de textos. Con lo que ya sabes, y lo que has aprendido en este curso, sabrás trabajar con él sin ningún tipo de dificultad. De todas formas, a continuación te presentamos dos videotutoriales para que te familiarices con la forma de trabajo del procesador de textos.
 
-_Vídeo 6.2. Documentos de texto con Google Drive (Parte I). Fuente: Youtube._
+{% youtube %}https://youtu.be/1hkp11M_v5w{% endyoutube %}
 
-_Vídeo 6.3. Documentos de texto con Google Drive (Parte II). Fuente: Youtube._
+{% youtube %}https://youtu.be/RlIRJoqwgPk{% endyoutube %}
 
 ## Actividad
 

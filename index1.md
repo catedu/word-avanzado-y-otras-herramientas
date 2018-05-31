@@ -5,18 +5,18 @@ Conocer todas las opciones que pueden utilizarse al trabajar con párrafos permi
 Fíjate en la siguiente imagen:
 
 
-![](img/Imagen_01.jpg)
+![2.1. Documento con algunos formateos aplicados. Captura propia.](img/2Imagen_01.jpg)
 
 
-_Fig. 2.1. Documento con algunos formateos aplicados. Captura propia._
+
 
 Y ahora fíjate en esta:
 
 
-![](img/Imagen_02.jpg)
+![2.2. Ejemplo de documento formateado. Captura propia.](img/2Imagen_02.jpg)
 
 
-_Fig. 2.2. Ejemplo de documento formateado. Captura propia._
+
 
 ¿A qué hay una gran diferencia entre ellas?
 

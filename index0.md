@@ -5,10 +5,7 @@ Las organizaciones lo utilizan para editar, guardar e imprimir documentos que pu
 Las funciones básicas que tienen se pueden resumir en:
 
 
-![](img/Imagen_01.jpg)
-
-
-_Fig. 1.1. Funciones de los procesadores de textos. Captura propia._
+![Fig. 1.1. Funciones de los procesadores de textos. Captura propia.](img/1Imagen_01.jpg)
 
 Todo esto que te mostramos en el esquema anterior ya sabes realizarlo, por lo que en el curso en el que te has matriculado, aprenderás a realizar otras acciones que en ocasiones te ayudarán a realizar trabajos que no sabías que se podían hacer.
 

@@ -3,10 +3,10 @@
 Al trabajar con OpenOffice Writer, la selección del tamaño del papel la tenemos en la misma pestaña que en la que modificamos los márgenes.
 
 
-![](img/Imagen_10-1.jpg)
+![1.12. Configuración del tamaño del papel en Writer. Captura propia.](img/1Imagen_10-1.jpg)
 
 
-_Fig. 1.12. Configuración del tamaño del papel en Writer. Captura propia._
+
 
 ## Importante
 

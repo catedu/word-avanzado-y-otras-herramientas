@@ -2,9 +2,15 @@
 
 Si todavía no te ha quedado muy claro, o quieres repasar lo aprendido, puedes acceder a los siguientes videotutoriales.
 
-_Vídeo 5.3. Cómo combinar correspondencia con Word 2007. Fuente: Youtube._
+{% youtube %}https://youtu.be/qbXSH2ttZLc{% endyoutube %}
 
-_Vídeos 5.4., 5.5., 5.6. y 5.7. Cómo combinar correspondencia con Writer. Fuente: Youtube._
+{% youtube %}https://youtu.be/sz6rs7qrq6g{% endyoutube %}
+
+{% youtube %}https://youtu.be/UVUApzCNcEM{% endyoutube %}
+
+{% youtube %}https://youtu.be/IrjLnty5zuE{% endyoutube %}
+
+{% youtube %}https://youtu.be/YAoZx_206kc{% endyoutube %}
 
 ## Importante
 
@@ -13,10 +19,10 @@ Con la combinación de correspondencia, en Microsoft Word, además de crear cart
 En OpenOffice también puedes generar etiquetas en el menú Archivo, opción Nuevo.
 
 
-![](img/Imagen_10-1.jpg)
+![5.11. Creación de etiquetas en OpenOffice Writer. Captura propia.](img/5Imagen_10-1.jpg)
 
 
-_Fig. 5.11. Creación de etiquetas en OpenOffice Writer. Captura propia._
+
 
 ## Actividad
 

@@ -5,14 +5,14 @@ Hemos llegado ya al penúltimo módulo del curso y ahora nos vamos a ocupar de o
 Fíjate en las siguientes imágenes:
 
 
-![](img/Imagen_01.jpg)
+![](img/5Imagen_01.jpg)
 
 
 
-![](img/Imagen_02.jpg)
+![5.1. y 5.2. Ejemplos del uso de formularios. Captura propia.](img/5Imagen_02.jpg)
 
 
-_Fig. 5.1. y 5.2. Ejemplos del uso de formularios. Captura propia._
+
 
 Estas son algunas de las cosas que se pueden hacer con los formularios.
 

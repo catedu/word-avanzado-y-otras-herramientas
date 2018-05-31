@@ -27,9 +27,7 @@ El formato usado en los pies de foto tampoco te acaba de gustar, pero mañana ha
 
 Seguro que te suena esta situación.
 
-var feedback32_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ¿Qué hubiera pasado si hubieras utilizado estilos ?
 
@@ -44,4 +42,8 @@ Una vez definidos, con sólo un doble clic puedes aplicar todas esas definicione
 Y, por supuesto, si decides modificar las propiedades de un estilo, tan sólo debes hacer eso: modificar sus propiedades. El procesador de textos se encargará de modificar inmediata y automáticamente en todo el documento aquellos textos a los que bautizamos con ese estilo. Ahorras cientos de clics.
 
 ¿No crees que con la utilización de los estilos puedes ahorrar mucho, mucho tiempo?
+
+%/accordion%
+
+
 

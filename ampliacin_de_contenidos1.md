@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 A continuación te mostramos algunas páginas Web donde puedes practicar algunos de los contenidos estudiados:
 

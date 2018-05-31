@@ -5,10 +5,10 @@ Hay usuarios de procesadores de textos que prefieren trabajar con tablas a la ho
 Fíjate en esta imagen, ¿sabrías identificar qué se ha realizado con una tabla, con columnas o con tabuladores?
 
 
-![](img/Imagen_09.jpg)
+![2.9. Utilización de tablas, columnas o tabuladores. Captura propia.](img/2Imagen_09.jpg)
 
 
-_Fig. 2.9. Utilización de tablas, columnas o tabuladores. Captura propia._
+
 
 ¿Has conseguido averiguarlo? Pues bien, a simple vista es difícil saber cómo se ha realizado. La parte superior se ha realizado con tabuladores (¿a qué parecía que se había hecho con columnas? La parte inferior se ha realizado con una tabla.
 

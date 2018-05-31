@@ -5,10 +5,10 @@ Crear una plantilla es una acción muy sencilla, ya que la tarea fundamental es 
 Una vez que ya has decidido qué es lo que va a contener la plantilla, lo único que tienes que indicarle a Word es que el tipo de documento es una plantilla, y esto lo harás seleccionando la opción **Plantilla de Word** en el cuadro de diálogo Guardar, tal y como puedes ver en la siguiente imagen.
 
 
-![](img/Imagen_29.jpg)
+![Fig. 1.38. Guardado de un documento con el formato de plantilla en Word 2007. Captura propia.](img/1Imagen_29.jpg)
 
 
- _Fig. 1.38. Guardado de un documento con el formato de plantilla en Word 2007. Captura propia._
+
 
 En el siguiente enlace puedes ver una explicación de cómo trabajar con plantillas:
 
@@ -23,14 +23,5 @@ Además del tipo de archivo que te hemos indicado anteriormente (Plantilla de Wo
 
 ## Pregunta Verdadero-Falso
 
-### Pregunta 1
+<quiz name=""><question><p>Cuando en Word 2007 quiero crear una plantilla, ésta solamente puede ser guardada en un único formato.</p><answer>Verdadero</answer><answer correct>Falso</answer><explanation>Además del formato Plantilla, también existen las Plantillas con macros y Plantillas de versiones anteriores a la 2007.</explanation></question></quiz>
 
-Cuando en Word 2007 quiero crear una plantilla, ésta solamente puede ser guardada en un único formato.
-
- Verdadero  Falso
-
-#### Retroalimentación
-
-**Falso**
-
-Además del formato Plantilla, también existen las Plantillas con macros y Plantillas de versiones anteriores a la 2007.

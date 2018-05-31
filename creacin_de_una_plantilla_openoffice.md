@@ -3,14 +3,11 @@
 Si trabajas con OpenOffice Writer, la creación de una plantilla es muy similar al que te hemos explicado anteriormente, solo que ahora seleccionarás la opción **Plantilla de documento de texto ODF**.
 
 
-![](img/Imagen_30.jpg)
-
-
- _Fig. 1.39. Creación de una plantilla con Write. Captura propia._
+![1.39. Creación de una plantilla con Write. Captura propia.](img/1Imagen_30.jpg)
 
 En el siguiente vídeo puedes ver cómo crear una plantilla en OpenOffice Writer.
 
-_Vídeo 1.3. Creación de plantillas en Writer. Fuente: Youtube._
+{% youtube %}https://youtu.be/GzoyiVI-dkY{% endyoutube %}
 
 Si todavía tienes dudas de cómo trabajar con plantillas, visita este enlace:
 
@@ -20,14 +17,11 @@ Si todavía tienes dudas de cómo trabajar con plantillas, visita este enlace:
 
 Una vez que has estudiado qué son y para qué sirven las plantillas, ¿dónde crees que puedes sacarlas el máximo provecho a nivel educativo?
 
-var feedback82_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Una de las funciones más útiles con las plantillas es la creación de exámenes en los que, por ejemplo, siempre utilizo el mismo encabezado y pie de página. Imagina que en todos los exámenes quieres utilizar el encabezado que te mostramos en la siguiente imagen.
 
+![1.40. Ejemplo de una plantilla para la creación de un examen con el mismo encabezado. Captura propia.](img/1Imagen_30-1.jpg)
 
-![](img/Imagen_30-1.jpg)
+%/accordion%
 
-
-_Fig. 1.40. Ejemplo de una plantilla para la creación de un examen con el mismo encabezado. Captura propia._

@@ -9,8 +9,8 @@ El ejemplo más claro puede ser una carta enviada a nuestros alumnos. Lógicamen
 La combinación de correspondencia supone introducir información en un documento (documento principal) obtenida de otro documento (el origen de datos) para crear otro nuevo que contendrá la información de ambos, tal y como te representamos gráficamente en la siguiente imagen.
 
 
-![](img/Imagen_09.png)
+![5.9. Esquema de la combinación de correspondencia. Fuente wiki.open-office.es.](img/5Imagen_09.png)
 
 
-_Fig. 5.9. Esquema de la combinación de correspondencia. Fuente wiki.open-office.es._
+
 

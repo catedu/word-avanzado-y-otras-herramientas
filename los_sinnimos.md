@@ -5,14 +5,14 @@ El uso de los sinónimos provoca parecidos reparos entre el profesorado que los 
 La forma de usar el diccionario de sinónimos es muy sencilla, basta con poner el cursor encima de la palabra deseada, hacer click con el botón derecho del ratón y, en la lista desplegable, nos aparecerá la opción de **Sinónimos**, tal y como puedes ver en las figuras siguientes.
 
 
-![](img/Imagen_06.jpg)
+![3.6. Utilización de los sinónimos en Word 2007. Captura propia.](img/3Imagen_06.jpg)
 
 
 
-![](img/Imagen_07.jpg)
+![3.7. Utilización de los sinónimos en OpenOffice Writer. Captura propia.](img/3Imagen_07.jpg)
 
 
-_Fig. 3.6. Utilización de los sinónimos en Word 2007. Captura propia._
 
-_Fig. 3.7. Utilización de los sinónimos en OpenOffice Writer. Captura propia._
+
+
 

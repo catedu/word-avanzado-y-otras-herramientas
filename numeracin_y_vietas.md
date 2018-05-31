@@ -10,10 +10,10 @@ Suponemos que ya conoces las listas con viñetas y las listas numeradas, pero si
 Fíjate en la siguiente imagen, se ha aplicado numeración y viñetas.
 
 
-![](img/Imagen_06.jpg)
+![2.6. Aplicación de numeración y viñetas. Captura propia.](img/2Imagen_06.jpg)
 
 
-_Fig. 2.6. Aplicación de numeración y viñetas. Captura propia._
+
 
 Las listas con viñetas y las listas numeradas constituyen casos especiales de sangría francesa. Si te fijas en su estructura, comprobarás que la primera línea, la que lleva la viñeta o el número, queda más a la izquierda que el resto del párrafo.
 

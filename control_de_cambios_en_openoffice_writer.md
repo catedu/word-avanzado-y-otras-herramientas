@@ -5,28 +5,28 @@ Cuando varias personas revisan y modifican un documento, se pueden controlar los
 Fíjate en la siguiente imagen:
 
 
-![](img/Imagen_09.jpg)
+![3.13. Ejemplo de control de cambios en Write. Captura propia.](img/3Imagen_09.jpg)
 
 
-_Fig. 3.13. Ejemplo de control de cambios en Write. Captura propia._
+
 
 Como puedes comprobar, se marcan las modificaciones que se han realizado sobre el texto original, indicando que se ha realizado un cambio pero no muestra qué cambio se ha realizado.
 
 Pero, ¿cómo se puede activar el control de cambios? Tienes que entrar en el menú **Editar**, opción **Cambios** y seleccionar **Registro**.
 
 
-![](img/Imagen_11.jpg)
+![3.14. Activación de control de cambios en OpenOffice Writer. Captura propia.](img/3Imagen_11.jpg)
 
 
-_Fig. 3.14. Activación de control de cambios en OpenOffice Writer. Captura propia._
+
 
 Llegados a este punto solamente nos queda decidir si se aceptan o se rechazan los cambios. Para ello, hacemos click encima de la palabra o palabras sobre la que queremos trabajar y nos aparecerán las opciones de aceptar y rechazar cambios, tal y como puedes ver en la siguiente figura.
 
 
-![](img/Imagen_13.jpg)
+![3.15. Aceptar o rechazar cambios en OpenOffice Writer. Captura propia.](img/3Imagen_13.jpg)
 
 
-_Fig. 3.15. Aceptar o rechazar cambios en OpenOffice Writer. Captura propia._
+
 
 En el siguiente enlace puedes ampliar información relacionada con el control de cambios:
 

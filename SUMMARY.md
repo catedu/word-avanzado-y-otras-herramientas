@@ -2,9 +2,9 @@
 
 * [Introducción](README.md)
 
-____
+___
 ### M1. PREPARANDO EL TRABAJO 
-* [M1. PREPARANDO EL TRABAJO](index0.md)
+* [PREPARANDO EL TRABAJO](index0.md)
 * [U1. Configuración de página](u1_configuracin_de_pgina.md)
 	* [Márgenes (Word)](mrgenes_word.md)
 	* [Márgenes (OpenOffice)](mrgenes_openoffice.md)
@@ -28,9 +28,10 @@ ____
 	* [Creación de una plantilla (Word)](creacin_de_una_plantilla_word.md)
 	* [Creación de una plantilla (OpenOffice)](creacin_de_una_plantilla_openoffice.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos.md)
-### M2: LA EDICIÓN Y EL FORMATO DEL DOCUMENTO | M2: LA EDICIÓN Y EL FORMATO DEL DOCUMENTO 
-* [M2: LA EDICIÓN Y EL FORMATO DEL DOCUMENTO](index1.md)
+
+
+### 2. LA EDICIÓN Y EL FORMATO DEL DOCUMENTO 
+* [LA EDICIÓN Y EL FORMATO DEL DOCUMENTO](index1.md)
 * [Contenidos](contenidos.md)
 	* [U1. Opciones de párrafo y línea](u1_opciones_de_prrafo_y_lnea.md)
 		* [Sangrías](sangras.md)
@@ -46,9 +47,10 @@ ____
 	* [U4. Estilos](u4_estilos.md)
 		* [Trabajando con estilos](trabajando_con_estilos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
-* [Créditos](crditos1.md)
-### M3: LAS REVISIONES DEL DOCUMENTO | M3: LAS REVISIONES DEL DOCUMENTO 
-* [M3: LAS REVISIONES DEL DOCUMENTO](index2.md)
+
+
+### 3. LAS REVISIONES DEL DOCUMENTO 
+* [LAS REVISIONES DEL DOCUMENTO](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U1. Ortografía, gramática y sinónimos](u1_ortografa_gramtica_y_sinnimos.md)
 		* [La revisión ortográfica](la_revisin_ortogrfica.md)
@@ -60,9 +62,10 @@ ____
 		* [Control de cambios en OpenOffice Writer](control_de_cambios_en_openoffice_writer.md)
 	* [U3. Trabajando con comentarios](u3_trabajando_con_comentarios.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
-* [Créditos](crditos2.md)
-### M4: LA MEJORA DEL DOCUMENTO | M4: LA MEJORA DEL DOCUMENTO 
-* [M4: LA MEJORA DEL DOCUMENTO](index3.md)
+
+
+### 4. LA MEJORA DEL DOCUMENTO 
+* [LA MEJORA DEL DOCUMENTO](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U1. Letras capitales](u1_letras_capitales.md)
 	* [U2. Notas al pie y al final](u2_notas_al_pie_y_al_final.md)
@@ -70,9 +73,10 @@ ____
 	* [U4. Creación de un índice](u4_creacin_de_un_ndice.md)
 	* [U5. Editor de ecuaciones](u5_editor_de_ecuaciones.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
-### M5: INTERACTIVIDAD | M5: INTERACTIVIDAD 
-* [M5: INTERACTIVIDAD](index4.md)
+
+
+### 5. INTERACTIVIDAD 
+* [INTERACTIVIDAD](index4.md)
 * [Contenidos](contenidos4.md)
 	* [U1. Formularios](u1_formularios.md)
 		* [Trabajando en Word 2007](trabajando_en_word_2007.md)
@@ -84,13 +88,15 @@ ____
 		* [Esquemas](esquemas.md)
 		* [Documentos y subdocumentos](documentos_y_subdocumentos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos4.md)
-* [Créditos](crditos4.md)
-### M6: TRABAJANDO EN LA NUBE | M6: TRABAJANDO EN LA NUBE 
-* [M6: TRABAJANDO EN LA NUBE](index5.md)
+
+### 6. TRABAJANDO EN LA NUBE 
+* [TRABAJANDO EN LA NUBE](index5.md)
 * [Contenidos](contenidos5.md)
 	* [U1. Creación de una cuenta Google](u1_creacin_de_una_cuenta_google.md)
 	* [U2. Google Drive](u2_google_drive.md)
 	* [U3. Documentos de texto con Google Drive](u3_documentos_de_texto_con_google_drive.md)
 	* [U4. Utilización de Google Drive en el aula.](u4_utilizacin_de_google_drive_en_el_aula.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
-* [Créditos](crditos5.md)
+
+___
+* [Créditos](crditos.md)

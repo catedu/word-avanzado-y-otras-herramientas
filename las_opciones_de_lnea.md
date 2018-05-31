@@ -1,17 +1,16 @@
 # Las opciones de línea
 
-**La línea  
-**
+**La línea**
 
 Anteriormente hemos visto cómo numerar párrafos, es decir, cómo crear listas numeradas, pero, en ocasiones, puede ser muy útil numerar las líneas. Cuando se trata de analizar un documento en profundidad, para presentar alternativas al contenido o para comentar algunas cuestiones referentes al mismo, puede facilitarse la tarea numerando las líneas.
 
 Fíjate en la siguiente imagen.
 
 
-![](img/Imagen_08.jpg)
+![2.8. Párrafos con líneas numeradas. Captura propia.](img/2Imagen_08.jpg)
 
 
-_Fig. 2.8. Párrafos con líneas numeradas. Captura propia._
+
 
 Visita estos enlaces para aprender a numerar las líneas:
 

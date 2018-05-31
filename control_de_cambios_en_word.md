@@ -5,28 +5,28 @@ Cuando varias personas revisan y modifican un documento, se pueden controlar los
 Fíjate en la siguiente imagen:
 
 
-![](img/Imagen_08.jpg)
+![3.8. Ejemplo de control de cambios en Word. Captura propia.](img/3Imagen_08.jpg)
 
 
-_Fig. 3.8. Ejemplo de control de cambios en Word. Captura propia._
+
 
 Como puedes comprobar, se marcan las modificaciones que se han realizado sobre el texto original. Si estos cambios se realizan en el formato, se muestran con un globo en el margen derecho.
 
 Pero, ¿cómo se puede activar el control de cambios? Tienes que entrar en el grupo **Revisar**, y hacer clic en la opción **Control de cambios**.
 
 
-![](img/Imagen_10.jpg)
+![3.9. Activación de control de cambios en Word 2007. Captura propia.](img/3Imagen_10.jpg)
 
 
-_Fig. 3.9. Activación de control de cambios en Word 2007. Captura propia._
+
 
 Llegados a este punto solamente nos queda decidir si se aceptan o se rechazan los cambios. Para ello, hacemos click encima de la palabra o palabras sobre la que queremos trabajar y nos aparecerán las opciones de aceptar y rechazar cambios, tal y como puedes ver en la siguiente figura.
 
 
-![](img/Imagen_12.jpg)
+![3.10. Aceptar o rechazar cambios en Word 2007. Captura propia.](img/3Imagen_12.jpg)
 
 
-_Fig. 3.10. Aceptar o rechazar cambios en Word 2007. Captura propia._
+
 
 En el siguiente enlace puedes ampliar información relacionada con el control de cambios:
 
@@ -34,25 +34,27 @@ En el siguiente enlace puedes ampliar información relacionada con el control de
 
 Además, puedes acceder al siguiente videotutorial si tienes alguna duda:
 
-_Vídeo 3.1. Control de cambios en Word 2007. Fuente: Youtube._
+{% youtube %}https://youtu.be/UYn3Xw1GWK4{% endyoutube %}
 
-## Importante
+>**info**
+>
+>## Importante
+>
+>Word nos permite personalizar la forma en la que se mostrarán los cambios. Para ello debemos pinchar en el triángulo invertido que aparece en la opción Control de cambios y seleccionar **Cambiar opciones de seguimiento**, tal y como puedes ver en la siguiente figura:
+>
+>
+>![3.11. Personalización del control de cambios en Word 2007. Captura propia.](img/3Imagen_14.jpg)
+>
+>
+>
+>
+>Este te llevará al cuadro de diálogo que puedes ver en la siguiente imagen, desde el cual podrás seleccionar las opciones deseadas.
+>
+>
+>![3.12. Opciones del control de cambios en Word 2007. Captura propia.](img/3Imagen_15.jpg)
 
-Word nos permite personalizar la forma en la que se mostrarán los cambios. Para ello debemos pinchar en el triángulo invertido que aparece en la opción Control de cambios y seleccionar **Cambiar opciones de seguimiento**, tal y como puedes ver en la siguiente figura:
 
 
-![](img/Imagen_14.jpg)
-
-
-_Fig. 3.11. Personalización del control de cambios en Word 2007. Captura propia._
-
-Este te llevará al cuadro de diálogo que puedes ver en la siguiente imagen, desde el cual podrás seleccionar las opciones deseadas.
-
-
-![](img/Imagen_15.jpg)
-
-
-_Fig. 3.12. Opciones del control de cambios en Word 2007. Captura propia._
 
 ## Actividad
 

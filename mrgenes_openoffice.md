@@ -5,10 +5,10 @@ Debes tener en cuenta que aunque la mayoría de los procesadores de textos permi
 Teniendo en cuenta esto, el cuadro de diálogo existente en OpenOffice Writer para cambiar los márgenes es el que se muestra en la siguiente figura:
 
 
-![](img/Imagen_09.jpg)
+![1.10. Cuadro de diálogo para la Configuración de los márgenes OpenOffice Writer. Captura propia.](img/1Imagen_09.jpg)
 
 
-_Fig. 1.10. Cuadro de diálogo para la Configuración de los márgenes OpenOffice Writer. Captura propia._
+1.10. Cuadro de diálogo para la Configuración de los márgenes OpenOffice Writer. Captura propia.
 
 Para conocer todo lo que puedes hacer con los márgenes en OpenOffice Writer, puedes acceder al siguiente enlace:
 

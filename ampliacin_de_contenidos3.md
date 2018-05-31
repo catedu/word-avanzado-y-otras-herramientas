@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 En los siguientes enlaces puedes ampliar los contenidos estudiados en este módulo:
 

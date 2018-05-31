@@ -16,8 +16,8 @@ En la siguiente imagen puedes ver un documento en el que se han aplicado diferen
 ¡¡Seguro que lo consigues!!
 
 
-![](img/Imagen_09-1.jpg)
+![2.10. Actividad de columnas. Captura propia.](img/2Imagen_09-1.jpg)
 
 
-_Fig. 2.10. Actividad de columnas. Captura propia._
+
 

@@ -3,11 +3,11 @@
 Vas avanzando en el curso, y ahora te toca aprender de qué forma se pueden realizar revisiones a un documento. Para empezar, te proponemos que leas lo que te mostramos en la siguiente figura:
 
 
-![](img/Imagen_01.jpg)
+![3.1. Extracto de "La mecánica del corazón" de Mathias Malzieu. Captura propia.](img/3Imagen_01.jpg)
 
 
-_Fig. 3.1. Extracto de "La mecánica del corazón" de Mathias Malzieu. Captura propia.  
-_
+3.1. Extracto de "La mecánica del corazón" de Mathias Malzieu. Captura propia.  
+
 
 ¿Qué has podido comprobar en este extracto? ¡¡Efectivamente!! Muchas faltas de ortografía y gramaticales.
 

@@ -4,9 +4,9 @@ En un proceso de elaboración colectiva de un documento, es posible que varias p
 
 En los dos videotutoriales siguientes te explican cómo crear y trabajar con documentos y subdocumentos.
 
-_Vídeo 5.9. Cómo hacer documentos y subdocumentos en Word 2007._
+{% youtube %}https://youtu.be/wCpTgY0GmKw{% endyoutube %}
 
- _Vídeo 5.10. Cómo hacer documentos y subdocumentos en OpenOffice Writer._
+{% youtube %}https://youtu.be/GMGkIDifvLo{% endyoutube %}
 
 Si con el videotutorial te ha quedado todavía alguna duda, puedes acceder a los siguientes enlaces:
 
@@ -35,25 +35,27 @@ Los contenidos más diversos y en realidad los más atractivos de los diferentes
 
 De estos tres documentos vas a crear un documento maestro.
 
-var feedbackquesFeedback0b31text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Una vez que hayas finalizado el ejercicio, lo que has conseguido es tener cuatro documentos diferentes, los tres anteriores y el documento maestro. Prueba a realizar modificaciones sobre alguno de los documentos, y verás como se trasladas al maestro.
 
 Si trabajas con Word, conseguirás un resultado como el que puedes ver en la siguiente imagen.
 
 
-![](img/Imagen_13.jpg)
+![5.14. Documento maestro con subdocumentos en Word 2007. Captura propia.](img/5Imagen_13.jpg)
 
 
-_Fig. 5.14. Documento maestro con subdocumentos en Word 2007. Captura propia._
+
 
 Si estás trabajando en OpenOffice Writer, tendrás un resultado similar al que se muestra en la siguiente imagen.
 
 
-![](img/Imagen_14.jpg)
+![5.15. Documento maestro con subdocumentos en OpenOffice Writer. Captura propia.](img/5Imagen_14.jpg)
+
+%/accordion%
 
 
-_Fig. 5.15. Documento maestro con subdocumentos en OpenOffice Writer. Captura propia._
+
+
+
 

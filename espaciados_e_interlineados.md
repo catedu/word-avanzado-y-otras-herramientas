@@ -7,10 +7,10 @@ El **espaciado** es la distancia que se deja entre un párrafo y otro, ya sea el
 En la siguiente imagen te lo mostramos de forma gráfica:
 
 
-![](img/Imagen_04-1.jpg)
+![2.5. Diferenciando el espaciado del interlineado. Captura propia.](img/2Imagen_04-1.jpg)
 
 
-_Fig. 2.5. Diferenciando el espaciado del interlineado. Captura propia_.
+
 
 Para conocer todo lo que puedes hacer con los espaciados e interlineados en cada programa, puedes acceder a los siguientes enlaces:
 

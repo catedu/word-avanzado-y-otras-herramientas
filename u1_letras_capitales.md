@@ -3,16 +3,16 @@
 Fíjate en el comienzo de párrafo de estos dos documentos:
 
 
-![](img/Imagen_03.jpg)
+![6.3. Párrafos sin letra capital. Captura propia.](img/4Imagen_03.jpg)
 
 
 
-![](img/Imagen_04.jpg)
+![6.4. Párrafo con letra capital. Captura propia.](img/4Imagen_04.jpg)
 
 
-_Fig. 6.3. Párrafos sin letra capital. Captura propia._
 
-_Fig. 6.4. Párrafo con letra capital. Captura propia._
+
+
 
 ¿Te das cuenta de la diferencia? En la imagen de la derecha hemos utilizado una letra capital.
 
@@ -20,9 +20,9 @@ La letra capital es un estilo de letra que se utiliza al comienzo de un párrafo
 
 Para saber cómo puedes insertar una letra capital en cada programa, puedes acceder a los siguientes vídeos:
 
-_Vídeo 4.1. Letras capitales en Word. Fuente: Youtube._
+{% youtube %}https://youtu.be/Wf488q9bszg{% endyoutube %}
 
-_Vídeo 4.2. Letras capitales en Writer. Fuente: Youtube._
+{% youtube %}https://youtu.be/WFrPih69c1o{% endyoutube %}
 
 ## Actividad
 

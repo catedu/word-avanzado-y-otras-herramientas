@@ -3,14 +3,13 @@
 Antes de explicar cómo se trabaja con los formularios, es muy conveniente que conozcas para qué sirven los botones que tienes disponibles a la hora de crearlos. Fíjate en esta imágen.
 
 
-![](img/Imagen_05.jpg)
+![5.5. Controles para trabajar con formularios en Word 2007. Captura propia.](img/5Imagen_05.jpg)
 
 
-_Fig. 5.5. Controles para trabajar con formularios en Word 2007. Captura propia._
 
 En el siguiente vídeo te explicamos cómo trabajar con estos controles del formulario para crear un documento.
 
-_Video 5.1. Vídeo explicativo del trabajo con formularios en Word 2007. Fuente Youtube._
+{% youtube %}https://youtu.be/U8eUfYVSVYc{% endyoutube %}
 
 ## Actividad
 
@@ -18,10 +17,10 @@ Vas a practicar lo aprendido hasta ahora de formularios en Word. Para ello, real
 
 1.  Crea una plantilla nueva que guardarás con el nombre **tu-login cuestionario**.
 2.  Escribe en la primera línea, "_**WORD 2007**_", y en la segunda "_**Cuestionario de evaluación**_". Formatea ambas como título de nivel 1.
-3.  Escribe debajo, _"**1\. Para que aparezca el menú contextual hay que:"**_
+3.  Escribe debajo, _"**1\. Para que aparezca el menú contextual hay que:"**
 4.  A continuación. inserta una lista desplegable con los siguientes elementos:  
     
-    *   _"**Selecciona la respuesta correcta**_
+    *   _"**Selecciona la respuesta correcta**
     *   **_Pulsar el botón derecho (secundario) del ratón._**
     *   **_Pulsar el botón central del ratón._**
     *   **_Pulsar el botón izquierdo del ratón._**"
@@ -34,10 +33,10 @@ Vas a practicar lo aprendido hasta ahora de formularios en Word. Para ello, real
 10.  Escribe "**_3\. La barra de herramientas_**", inserta un campo de texto, con un tamaño máximo de 8 y sigue escribiendo "**_lleva, entre otros los comandos Nuevo, Abrir, Guardar e Imprimir._**"
 11.  Ve a la línea siguiente, escribe el siguiente texto: "**_4\. Los_**" . A continuación, inserta una lista desplegable con los siguientes elementos:  
     
-    *   _**Selecciona**_
-    *   _**Campos **_
-    *   _**Tabuladores**_
-    *   _**Formularios**_
+    *   _**Selecciona**
+    *   _**Campos **
+    *   _**Tabuladores**
+    *   _**Formularios**
     
     No aceptes todavía, introduce como ayuda en la barra de estado: _"**elige la opción que consideres correcta**_."
 12.  Y sigue escribiendo "**_sirven para hacer marcas en el documento que, posteriormente, permitirán alinear el texto tomándolas como referencia_**."

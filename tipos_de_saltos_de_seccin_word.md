@@ -7,10 +7,10 @@ Los tipos de saltos que se pueden incorporar en un documento son:
 *   **Página impar o Página par**: Inserta un salto de sección y empieza la siguiente sección en la próxima página impar o par. Si estamos en una página impar e insertamos un salto de sección a la siguiente página impar, la página par intermedia no aparecerá y la numeración de páginas se saltará un número.
 
 
-![](img/Imagen_14.jpg)
+![1.18. Configuración del comienzo de sección en Word 2007. Captura propia.](img/1Imagen_14.jpg)
 
 
-_Fig. 1.18. Configuración del comienzo de sección en Word 2007. Captura propia._
+
 
 Tal y como se ha indicado anteriormente, la inserción de una salto de sección puede hacerse desde dos sitios, siendo el resultado el mismo.  
 El procedimiento es el siguiente:
@@ -20,14 +20,14 @@ El procedimiento es el siguiente:
 3.  Hacemos clic en la opción deseada.
 
 
-![](img/Imagen_15.jpg)
+![1.19. Insercción de saltos de sección en Word 2007. Captura propia.](img/1Imagen_15.jpg)
 
 
-_Fig. 1.19. Insercción de saltos de sección en Word 2007. Captura propia._
-
-## Importante
-
-Las opciones para elegir el tipo de salto de sección son excluyentes, de tal manera que solamente podemos seleccionar una de ellas.
+>**info**
+>
+>## Importante
+>
+>Las opciones para elegir el tipo de salto de sección son excluyentes, de tal manera que solamente podemos seleccionar una de ellas.
 
 Para modificar un salto de sección es necesario verlo, por eso hay que pasar a la vista normal o activar el icono Mostrar todo, tal y como te hemos explicado antes.
 
@@ -35,6 +35,11 @@ Entonces seleccionamos el salto de sección que deseamos cambiar: hacemos clic e
 
 Si lo que deseamos es eleminar un salto de sección, al igual que antes, es necesario verlo. Una vez que lo veamos en pantalla, lo seleccionamos y pulsamos sobre la tecla **SUPR**.
 
-## Importante
 
-Debes tener en cuenta que las opciones disponibles que tiene OpenOffice Writer en relación a las secciones no son tan variadas como las que tiene Word. Eso no significa que no se puedan realizar saltos de sección que, como has comprobado, sí que se puede hacer, pero trabajando siempre con el cuadro de diálogo que has visto en la lección anterior.
+>**info**
+>
+>## Importante
+>
+>Debes tener en cuenta que las opciones disponibles que tiene OpenOffice Writer en relación a las secciones no son tan variadas como las que tiene Word. Eso no significa que no se puedan realizar saltos de sección que, como has comprobado, sí que se puede hacer, pero trabajando siempre con el cuadro de diálogo que has visto en la lección anterior.
+
+

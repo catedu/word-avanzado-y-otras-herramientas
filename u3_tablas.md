@@ -11,7 +11,7 @@ Para comprobar que te acuerdas cómo se trabaja de manera básica con las tablas
 1.  Crea un documento nuevo en blanco.
 2.  Inserta una tabla de 3 columnas y 4 filas.
 3.  Inserta una fila en la parte superior.
-4.  Inserta una columna a la derecha. _Si no has desmarcado la fila insertada, se añadirán tantas columnas como haya marcadas (en este caso 3)._
+4.  Inserta una columna a la derecha. _Si no has desmarcado la fila insertada, se añadirán tantas columnas como haya marcadas (en este caso 3).
 5.  Combina todas las celdas de la primera fila.
 6.  Combina todas las celdas de la última fila.
 7.  Combina las celdas 2ª, 3ª y 4ª de la primera columna.
@@ -28,23 +28,20 @@ Para comprobar que te acuerdas cómo se trabaja de manera básica con las tablas
 18.  Te quedará una tabla, más o menos, como ésta:
 
 
- ![](img/Imagen_10.jpg)
+![2.12. E__jemplo de una tabla. Captura propia.](img/2Imagen_10.jpg)
 
-
- _Fig. 2.12. E__jemplo de una tabla. Captura propia.  
-_
 
 Fíjate en las siguientes imágenes:
 
 
-![](img/Imagen_11.jpg)
+![](img/2Imagen_11.jpg)
 
 
 
-![](img/Imagen_12.jpg)
+![2.13. y 2.14. Ejemplos del uso de tablas. Capturas propias.](img/2Imagen_12.jpg)
 
 
-_Fig. 2.13. y 2.14. Ejemplos del uso de tablas. Capturas propias._
+
 
 En ambos casos se han utilizado las tablas para realizar el documento. Con el uso de las mismas, como puedes comprobar, puedes realizar muchos trabajos con una presentación mucho más cuidada.
 

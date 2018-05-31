@@ -17,10 +17,10 @@ Los opciones que podemos realizar con un párrafo son:
 Fíjate en la siguiente imagen, tienes un documento en el que podrás ver todas las opciones que se pueden realizar con un párrafo.
 
 
-![](img/Imagen_03.jpg)
+![2.3. Documento con diversas opciones de párrafo. Captura propia.](img/2Imagen_03.jpg)
 
 
-_Fig. 2.3. Documento con diversas opciones de párrafo. Captura propia._
+
 
 ## Importante
 

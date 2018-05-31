@@ -14,11 +14,11 @@ Para conocer cómo operar con fórmulas en una tabla, puedes acceder a los sigui
 Observa, en la imagen siguiente, la tabla que aparece. Haz una en un documento nuevo, con el mismo número de filas y columnas, en la que introducirás los datos que figuran en las zonas amarilla y verde. Las letras y números de los extremos aparecen a título informativo, no las pongas.
 
 
-![](img/Imagen_13.jpg)
+![2.15. Ejercicio para trabajar con fórmulas en una tabla. Captura propia.](img/2Imagen_13.jpg)
 
 
-_Fig. 2.15. Ejercicio para trabajar con fórmulas en una tabla. Captura propia.  
-_
+
+
 
 **Ordenar en una tabla**
 
@@ -36,10 +36,10 @@ Aunque un procesador de textos no es el programa adecuado para realizar un gráf
 Mira la siguiente imagen:
 
 
-![](img/Imagen_14.jpg)
+![2.16. Utilizando un procesador de textos para realizar gráficos. Captura propia.](img/2Imagen_14.jpg)
 
 
-_Fig. 2.16. Utilizando un procesador de textos para realizar gráficos. Captura propia._
+
 
 En los siguientes enlaces puedes ver cómo se puede realizar un gráfico como el que aparece en la figura, y otros muchos más:
 

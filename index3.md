@@ -5,18 +5,18 @@ Ya has superado el ecuador del curso y a lo largo de este módulo te vamos a ens
 Fíjate en el documento de esta imagen:
 
 
-![](img/Imagen_01.jpg)
+![6.1. Documento de texto. Captura propia.](img/4Imagen_01.jpg)
 
 
-_Fig. 6.1. Documento de texto. Captura propia._
+
 
 Y ahora fíjate en este otro documento:
 
 
-![](img/Imagen_02.jpg)
+![6.2. Documento mejorado. Captura propia.](img/4Imagen_02.jpg)
 
 
-_Fig. 6.2. Documento mejorado. Captura propia._
+
 
 Aunque a simple vista parece que la única diferencia está en el título y en la fórmula que aparece, en realidad hay otras muchas diferencias, y es en la forma en que se han generado los índices, tanto el de palabras como el de contenido, que se ha realizado a través de opciones específicas que tienen los procesadores de texto, de tal manera que de forma automática son insertadas en el documento.
 

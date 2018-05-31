@@ -5,10 +5,10 @@
 Para que lo veas a través de un ejemplo, fíjate en la siguiente imagen:
 
 
-![](img/Imagen_05.jpg)
+![3.5. Ejemplo de documento guionado. Captura propia.](img/3Imagen_05.jpg)
 
 
-_Fig. 3.5. Ejemplo de documento guionado. Captura propia._
+
 
 Como has podido comprobar hay palabras cuyas sílabas se han dividido al final de la línea. Esto es especialmente útil cuando se escribe en más de dos columnas, aunque no existe ningún inconveniente en hacerlo en cualquier documento.
 

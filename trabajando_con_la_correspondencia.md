@@ -25,15 +25,17 @@ Con lo que has estudiado en esta unidad, ¿serías capaz de realizar esta carta?
 
 ¡¡Seguro que sí!!
 
-var feedbackquesFeedback0b108text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Un posible modelo es el que te mostramos en la siguiente imagen.
 
 
-![](img/Imagen_10.jpg)
+![5.10. Posible ejemplo de carta de admisión a una actividad extraescolar. Captura propia.](img/5Imagen_10.jpg)
+
+%/accordion%
 
 
-_Fig. 5.10. Posible ejemplo de carta de admisión a una actividad extraescolar. Captura propia._
+
+
+
 

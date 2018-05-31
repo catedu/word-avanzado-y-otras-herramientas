@@ -6,9 +6,11 @@ Una nota al pie o al final sirve para introducir alguna cuestión al margen del 
 
 Las notas constituyen una forma de dar rigor y precisión a determinados documentos (especialmente a los documentos académicos, artículos de revistas especializadas, etc.), pero no debe abusarse de ellas. Los procesadores de texto permiten insertar notas al pie y les asignan automáticamente la numeración, de modo que cuando se inserte una nota en un punto del documento, las que haya a continuación se verán incrementadas en una unidad.
 
-## Importante
-
-Si has insertado una nota al pie y te has equivocado porque en realidad querías ponerla al final, ¡¡no te preocupes!! en cualquier momento puedes cambiar de una a otra.
+>**info**
+>
+>## Importante
+>
+>Si has insertado una nota al pie y te has equivocado porque en realidad querías ponerla al final, ¡¡no te preocupes!! en cualquier momento puedes cambiar de una a otra.
 
 Para saber cómo se trabaja con las notas al pie y al final, accede a los siguientes enlaces:
 
@@ -17,17 +19,16 @@ Para saber cómo se trabaja con las notas al pie y al final, accede a los siguie
 
 Si después de haber visto estas páginas sigues teniendo dudas de cómo trabajar con notas al pie y al final, puedes visualizar estos videotutoriales.
 
- _Vídeo 4.3. Cómo trabajar con notas al pie y al final en Word. Fuente: Youtube._
+{% youtube %}https://youtu.be/i2JeUu-2iSY{% endyoutube %}
 
-  _Vídeo 4.4. Cómo trabajar con notas al pie y al final en Write. Fuente: Youtube._
+{% youtube %}https://youtu.be/DNiHXlgT3N4{% endyoutube %}
 
 ## Actividad
 
 ¡¡Vamos a practicar con las notas al pie!! Con lo que has aprendido seguro que serás capaz de hacer la actividad que te presentamos a continuación.
 
 
-![](img/Imagen_05.jpg)
+![Fig. 6.5. Prácticando las notas al pie y al final. Captura propia.](img/4Imagen_05.jpg)
 
 
- _Fig. 6.5. Prácticando las notas al pie y al final. Captura propia._
 
