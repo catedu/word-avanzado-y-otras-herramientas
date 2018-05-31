@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Word avanzado y otras herramientas",
+        "author": "Óscar Sánchez Estella",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
